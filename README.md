@@ -1,1 +1,1 @@
-# php
+This repository contains a modular PHP project with several functionalities, including CRUD operations, a shopping cart system, REST API handling, and user authentication using sessions and password hashing.
